@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/kaushaljha/Desktop/Stock_prediction_and_sentiment_analysis/mlruns/719331578725220413/e45e81134551430085cf29fe7af76f30/artifacts
+end_time: 1762424273367
+entry_point_name: ''
+experiment_id: '719331578725220413'
+lifecycle_stage: active
+run_id: e45e81134551430085cf29fe7af76f30
+run_name: lstm_final_run
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762424264369
+status: 3
+tags: []
+user_id: kaushaljha

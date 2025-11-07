@@ -1,0 +1,26 @@
+# =========================
+# DO NOT SEND THESE TO DOCKER
+# =========================
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Mac
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# MLflow experiments
+mlruns/
+artifacts/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log
+logs/
